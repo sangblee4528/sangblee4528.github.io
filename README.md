@@ -21,3 +21,7 @@ void setup(){
 
 chart.js 차트 조작
 https://ming9mon.tistory.com/109
+
+
+Pivot and Group Data in Javascript
+https://medium.com/@saravanan16498/pivot-and-group-data-sk-yazhini9798-4a63e5cc3dd3
